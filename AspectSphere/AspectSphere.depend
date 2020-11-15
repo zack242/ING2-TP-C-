@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\pccod\desktop\aspectsphere\main.cpp
+	<iostream>
+
+1570749045 source:c:\users\pccod\desktop\aspectsphere\aspectsphere.cpp
+	<iostream>
+	"AspectSphere.h"
+
+1570748800 c:\users\pccod\desktop\aspectsphere\aspectsphere.h
+

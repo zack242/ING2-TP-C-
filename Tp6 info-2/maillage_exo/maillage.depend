@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1571231756 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\coords.cpp
+	"coords.h"
+	<iostream>
+
+1571231756 c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\coords.h
+	<vector>
+
+1571039002 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\couleur.cpp
+	"couleur.h"
+	"svgfile.h"
+	"util.h"
+	<iostream>
+
+1571039002 c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\couleur.h
+	<string>
+	<cstdint>
+
+1571039002 c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1571039003 c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\util.h
+	<string>
+
+1571039002 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1571039002 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1571397854 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\main.cpp
+	"couleur.h"
+	"util.h"
+	"coords.h"
+	"Sommet.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
+1571234481 c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\sommet.h
+	"coords.h"
+
+1571234774 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\sommet.cpp
+	<iostream>
+	"Sommet.h"
+
+1571397781 source:c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\triangle.cpp
+	<iostream>
+	<sstream>
+	"triangle.h"
+	"Sommet.h"
+
+1571397542 c:\users\alexb\onedrive\documents\codeblocks\tp6 info\maillage_exo\triangle.h
+	"couleur.h"
+	"Coords.h"
+
+1571398190 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\coords.cpp
+	"coords.h"
+	<iostream>
+	<windows.h>
+
+1571398190 c:\users\pccod\desktop\tp6 info-2\maillage_exo\coords.h
+	<vector>
+
+1571398190 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\couleur.cpp
+	"couleur.h"
+	"svgfile.h"
+	"util.h"
+	<iostream>
+
+1571398190 c:\users\pccod\desktop\tp6 info-2\maillage_exo\couleur.h
+	<string>
+	<cstdint>
+
+1571398190 c:\users\pccod\desktop\tp6 info-2\maillage_exo\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1571398190 c:\users\pccod\desktop\tp6 info-2\maillage_exo\util.h
+	<string>
+
+1571400531 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\sommet.cpp
+	<iostream>
+	"Sommet.h"
+
+1571400531 c:\users\pccod\desktop\tp6 info-2\maillage_exo\sommet.h
+	"coords.h"
+
+1571398190 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1571398190 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1571400063 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\main.cpp
+	"couleur.h"
+	"util.h"
+	"coords.h"
+	"Sommet.h"
+	"triangle.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
+1571401579 source:c:\users\pccod\desktop\tp6 info-2\maillage_exo\triangle.cpp
+	<iostream>
+	<sstream>
+	"triangle.h"
+	"Sommet.h"
+	"svgfile.h"
+	"couleur.h"
+
+1571401051 c:\users\pccod\desktop\tp6 info-2\maillage_exo\triangle.h
+	"couleur.h"
+	"Coords.h"
+	"Sommet.h"
+
+1571398190 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\coords.cpp
+	"coords.h"
+	<iostream>
+	<windows.h>
+
+1571398190 c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\coords.h
+	<vector>
+
+1571398190 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\couleur.cpp
+	"couleur.h"
+	"svgfile.h"
+	"util.h"
+	<iostream>
+
+1571398190 c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\couleur.h
+	<string>
+	<cstdint>
+
+1571398190 c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1571398190 c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\util.h
+	<string>
+
+1571400063 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\main.cpp
+	"couleur.h"
+	"util.h"
+	"coords.h"
+	"Sommet.h"
+	"triangle.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
+1571400531 c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\sommet.h
+	"coords.h"
+
+1571401051 c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\triangle.h
+	"couleur.h"
+	"Coords.h"
+	"Sommet.h"
+
+1571400531 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\sommet.cpp
+	<iostream>
+	"Sommet.h"
+
+1571398190 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1571401579 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\triangle.cpp
+	<iostream>
+	<sstream>
+	"triangle.h"
+	"Sommet.h"
+	"svgfile.h"
+	"couleur.h"
+
+1571398190 source:c:\users\pccod\desktop\nouveau dossier (3)\ing 2 sem 1\tp6 info-2\maillage_exo\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+

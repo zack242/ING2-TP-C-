@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1569510707 source:c:\users\pccod\desktop\onedrive - groupe inseec (poce)\tp 2\main.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	"theorie_nombres.h"
+
+1569511934 source:c:\users\pccod\desktop\onedrive - groupe inseec (poce)\tp 2\theorie_nombres.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	"theorie_nombres.h"
+
+1569512047 c:\users\pccod\desktop\onedrive - groupe inseec (poce)\tp 2\theorie_nombres.h
+	<iostream>
+	<vector>
+	<iostream>
+
+1569510404 c:\users\pccod\desktop\onedrive - groupe inseec (poce)\tp 2\theorie_nombres.cpp
+	<iostream>
+	<vector>
+	<iostream>
+

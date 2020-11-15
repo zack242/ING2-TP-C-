@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1573037086 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\agence.cpp
+	"Agence.h"
+
+1573034190 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\sejour.cpp
+	"Sejour.h"
+
+1573037821 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\sejour.h
+	<iostream>
+	<vector>
+
+1573034190 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\voyage.cpp
+	"Voyage.h"
+
+1573034328 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\voyage.h
+	<iostream>
+	<vector>
+	"Sejour.h"
+
+1573037132 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\main.cpp
+	<iostream>
+	<vector>
+	"Client.h"
+	"Sejour.h"
+	"Voyage.h"
+	"Agence.h"
+
+1573035993 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\client.h
+	<iostream>
+	<vector>
+	"Sejour.h"
+
+1573036778 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\agence.h
+	<iostream>
+	<vector>
+	"Sejour.h"
+	"Voyage.h"
+	"Client.h"
+
+1573035454 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5] (2)\deoliveirabaptista_tozy[td5]\client.cpp
+	"Client.h"
+
+1573037821 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\client.cpp
+	"Client.h"
+
+1573037821 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\client.h
+	<iostream>
+	<vector>
+	"Sejour.h"
+
+1573037821 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\sejour.h
+	<iostream>
+	<vector>
+
+1573037821 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\main.cpp
+	<iostream>
+	<vector>
+	"Client.h"
+	"Sejour.h"
+	"Voyage.h"
+	"Agence.h"
+
+1573038347 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\voyage.h
+	<iostream>
+	<vector>
+	"Sejour.h"
+
+1573038347 c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\agence.h
+	<iostream>
+	<vector>
+	"Sejour.h"
+	"Voyage.h"
+	"Client.h"
+
+1573034190 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\sejour.cpp
+	"Sejour.h"
+
+1573038347 source:c:\users\pccod\desktop\deoliveirabaptista_tozy[td5]\voyage.cpp
+	"Voyage.h"
+

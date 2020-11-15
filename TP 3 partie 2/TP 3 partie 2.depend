@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569518415 source:c:\users\pccod\desktop\onedrive - groupe inseec (poce)\tp 3 partie 2\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+
+1569514815 source:c:\users\pccod\desktop\tp 3 partie 2\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+
